@@ -1,1 +1,6 @@
-{ "active": false, "title": "", "message": "", "eta": "" }
+{
+  "active": true,
+  "title": "",
+  "message": "",
+  "eta": ""
+}
